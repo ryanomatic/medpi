@@ -1,0 +1,4 @@
+**Columnus[18]: NEWS shows up as unread when you are a corpse, ie you read them as a mort, you die and NEWS shows up like you never read them
+**Malicious[1]: you are naked when you log into the game
+**Malicious[5516]: hidden mobs are staying hidden when engaged
+**Raraku[1]: lol

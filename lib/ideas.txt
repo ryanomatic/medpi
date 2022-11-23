@@ -1,0 +1,11 @@
+**GreywolfII[286]: make it so you can make your wagon stop following for you a while if you wanna go into a zone or something
+**Tboard[61366]: put in a way to find out the weight in your transporting mules and stuff? :P
+**Vincent[4]: 'me' when casting or targetting will target the character
+**Vincent[3099]: say
+**Vincent[1652]: nsac and ndrop flags on items might be useful
+**Qio[1]: talis worn
+**Subrogation[1]: ring
+**Qio[64]: flail
+**Qio[64]: fleail
+**Qio[64]: flail
+**Raraku[3715]: arm

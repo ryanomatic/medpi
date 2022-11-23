@@ -1,0 +1,15 @@
+
+[1;30m* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+[1;37mUSEFUL INFO:[0;37m
+- You can RECALL to Medievia City Castle Square from most places.
+- Corpses can PRAY north of RECALL.
+- Talismans are available at RECALL.
+- Dragons are free and can fly to most zones, or directions like 'fly n 5 e 2'.
+- Multiplay as much as you want!
+- Use the GANG command if you need more muscle to solo tougher zones.
+
+[1;33mDEVELOPMENT:[0;37m
+This game is moving to open source! If you're interested in contributing bugfixes or
+features, or cleaning up some of the broken English, mudmail Vryce for access to the
+source code on GitHub.
+
